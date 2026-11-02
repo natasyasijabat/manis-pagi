@@ -4,8 +4,8 @@ Lanjutan Project Mandiri **My Store**, dikembangkan menjadi toko roti dan kue **
 Dibuat dengan **PHP (MVC), MySQL, CSS, dan JavaScript**.
 
 ## Identitas
-- Nama   : *(isi nama kamu)*
-- NIM    : *(isi NIM)*
+- Nama   : Natasya Enjelika Sijabat
+- NIM    : 25110119
 - Prodi  : Teknik Komputer – Group B
 - Dosen  : Primatua Sitompul, M.Kom
 
